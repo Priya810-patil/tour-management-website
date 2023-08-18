@@ -1,0 +1,130 @@
+/* .Form1 {
+    padding: 5px;
+    text-align: center;
+    font-size: medium;
+    margin: 10%;
+    align-items: center;
+    border: 1px solid black;
+    background-color: white;
+    
+}
+
+.Seachtab {
+    padding-right: 5px;
+    padding-top: 5px;
+}
+
+#Destination {
+    font-weight: bold;
+    background-color: #343a40;
+    color: wheat;
+    padding: 20px 2px 20px 50px;
+}
+
+#Duration {
+    background-color: #343a40;
+    color: wheat;
+    padding: 20px 50px 20px 50px;
+}
+
+#month {
+    background-color: #343a40;
+    color: wheat;
+    padding: 20px 50px 20px 50px;
+}
+
+#Search {
+    background-color: #343a40;
+    color: wheat;
+    text-align: center;
+    display: inline-block;
+    padding: 20px 20px;
+}
+ */
+
+
+ .searchformmain1{
+     /* top: 70% !important;  */
+     position: relative !important;
+     /* margin-top: 50% !important; */
+     background-color: black;
+
+ }
+
+
+.searchform1 {
+    padding: 40px 40px !important;
+    margin: 35% 2% 8% 15% !important;
+    border-radius: 20px !important ;
+    width: 1100px !important;
+    border-color: black !important;
+    border: 2px solid;
+    z-index: +1;
+    position: relative !important;
+    background-color: black !important;
+    
+   }
+
+
+#Destination {
+    font-weight: bold;
+    color: black;
+    padding: 20px 20px 20px 40px;
+    border: 1px solid black !important;
+    border-radius: 10px !important;
+}
+
+#Destination:hover{
+    background-color: #0dcaf0 !important;
+
+}
+ 
+#Duration {
+    font-weight: bold;
+    color: black;
+    padding: 20px 20px 20px 40px;
+    border: 1px solid black !important;
+    border-radius: 10px !important;
+}
+
+#Duration:hover{
+    background-color: 	#0dcaf0 !important;
+}
+
+#month {
+    font-weight: bold;
+    color: black;
+    padding: 20px 20px 20px 40px;
+    border: 1px solid black !important;
+    border-radius: 10px !important;
+}
+
+
+#month:hover{
+    background-color: 	#0dcaf0 !important;
+}
+
+.btn{
+    font-weight: bold !important;
+    text-align: center !important;
+    color: black !important;
+    padding: 20px 20px 20px 20px !important;
+    border: 1px solid 	black !important;
+    border-radius: 10px !important;
+    background-color: white !important;
+    
+   
+}
+a:link{
+    text-decoration: none !important;
+    color: black !important;
+}
+.btn:hover{
+    background-color:#0dcaf0 !important;
+   
+}
+
+.d-flex{
+    padding-right: 19px !important;
+    
+}

@@ -1,0 +1,42 @@
+.MainCard{
+    margin-top: 5% !important;
+}
+
+
+.cardholiday {
+     width: 1000px !important;
+    height: 330px !important;
+    margin-left: 20% !important; 
+    color: black !important;
+    align-items: center;
+    object-fit: fill !important;
+   border: 1px solid black;
+    
+    background-color: wheat !important;
+    object-fit: fill !important;
+   
+}
+.colmd{
+    padding: 20px 20px  !important;
+    
+}
+.rounded-start {
+    height: 325px !important;
+}
+
+.card-title {
+    font-weight: bold;
+} 
+
+.namedest{
+    text-align: center;
+}
+ 
+
+ /* .card{
+    height: 500px !important;
+    max-width:700px !important;
+    margin-left: 30% !important;
+    object-fit: fill !important;
+    align-items: center !important;
+ } */

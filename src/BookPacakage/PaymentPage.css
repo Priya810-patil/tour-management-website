@@ -1,0 +1,61 @@
+.payment-container {
+    width: 400px;
+    margin: 10% auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+   
+  }
+
+  .radio-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    display: inline;
+    padding: 20px;
+  }
+  
+  .radio-group label {
+    margin-bottom: 0.5rem;
+  }
+  
+  
+  .payment-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .input-group {
+    margin-bottom: 10px;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .pay-button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .pay-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .submitpay{
+    padding: 10px;
+    margin: 20px;
+  }
